@@ -1,0 +1,15 @@
+D:\Dev\c_sharp\neuraltest\bin\Debug\net6.0\neuraltest.exe
+D:\Dev\c_sharp\neuraltest\bin\Debug\net6.0\neuraltest.deps.json
+D:\Dev\c_sharp\neuraltest\bin\Debug\net6.0\neuraltest.runtimeconfig.json
+D:\Dev\c_sharp\neuraltest\bin\Debug\net6.0\neuraltest.dll
+D:\Dev\c_sharp\neuraltest\bin\Debug\net6.0\neuraltest.pdb
+D:\Dev\c_sharp\neuraltest\obj\Debug\net6.0\neuraltest.csproj.AssemblyReference.cache
+D:\Dev\c_sharp\neuraltest\obj\Debug\net6.0\neuraltest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\c_sharp\neuraltest\obj\Debug\net6.0\neuraltest.AssemblyInfoInputs.cache
+D:\Dev\c_sharp\neuraltest\obj\Debug\net6.0\neuraltest.AssemblyInfo.cs
+D:\Dev\c_sharp\neuraltest\obj\Debug\net6.0\neuraltest.csproj.CoreCompileInputs.cache
+D:\Dev\c_sharp\neuraltest\obj\Debug\net6.0\neuraltest.dll
+D:\Dev\c_sharp\neuraltest\obj\Debug\net6.0\refint\neuraltest.dll
+D:\Dev\c_sharp\neuraltest\obj\Debug\net6.0\neuraltest.pdb
+D:\Dev\c_sharp\neuraltest\obj\Debug\net6.0\neuraltest.genruntimeconfig.cache
+D:\Dev\c_sharp\neuraltest\obj\Debug\net6.0\ref\neuraltest.dll
